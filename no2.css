@@ -1,0 +1,69 @@
+*,
+html{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color :azure;;
+    height : 100vh;
+}
+div{
+    background-color:azure;
+}
+.container{
+    background-color: aquamarine;
+}
+.menurut_alif{
+    background-color: pink;
+}
+.navbar{
+    background-color: pink;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.bullet{
+    background-color: transparent;
+    list-style-type:  none;
+    padding: 10px;
+    color: white;
+}
+.bullet:hover{
+    background-color: tomato;
+    transition: 0.6s ease-in-out;
+    transition-delay: 0.3s;
+    border-radius: 5px ;
+}
+.link{
+    color:white;
+    text-decoration: none;
+}
+.kontainergambarnisa{
+    display: flex; ;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+   
+}
+.kontengambar{
+    width : 300px;
+    height: 500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.menurut_alif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    
+}
+.backgroundputih{
+width: 500px;
+height: 500px;
+background-color: white;
+}
